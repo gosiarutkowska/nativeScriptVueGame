@@ -1,0 +1,10 @@
+<Page loaded="pageLoaded" actionBarHidden="true">
+    <GridLayout>
+        <!-- Definte the container for the phisics scene -->
+        <GridLayout id="container"></GridLayout>
+        
+        <!-- Label for meta info is not requiered -->
+        <Label id="meta"/>
+        <Label id="win" text=" "/>
+    </GridLayout>
+</Page>
